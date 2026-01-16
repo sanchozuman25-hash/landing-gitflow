@@ -23,3 +23,11 @@ body {
   border: 1px solid #333;
   text-decoration: none;
 }
+.features {
+  padding-left: 18px;
+  margin: 0;
+}
+
+.features li {
+  margin: 6px 0;
+}
